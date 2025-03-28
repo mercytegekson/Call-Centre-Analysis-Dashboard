@@ -1,7 +1,7 @@
 
 #  Call Centre Analysis Dashboard
 
-https://github.com/mercytegekson/Call-Centre-Analysis-Dashboard/blob/main/image.jpg
+(https://github.com/mercytegekson/Call-Centre-Analysis-Dashboard/blob/main/image.jpg)
 
 This Power BI dashboard provides insights into call center operations, including answered calls, unresolved calls, and weekly trends.
 
